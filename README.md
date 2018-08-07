@@ -15,7 +15,10 @@ house_with_garden Files provided by IBGE (Brazilian Geographic Data Agency) with
 
 
 the sources used to compile this file are:
-BR Cities - Area, Lat, Long, Alt
+BR Cities - Area:
+https://www.ibge.gov.br/geociencias-novoportal/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?edicao=15868&t=downloads
+
+BR Cities - Lat, Long, Alt:
 ftp://geoftp.ibge.gov.br/organizacao_do_territorio/estrutura_territorial/localidade
 
 Estimation Populacion of Brazilian cities (from 1992 to 2017):
